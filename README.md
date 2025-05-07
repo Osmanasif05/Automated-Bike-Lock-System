@@ -126,7 +126,7 @@ All components are housed in a **custom 3D-printed enclosure**, designed in **So
 <img src="media/IMG_20250507_061533_854.jpg" alt="Assembled lock with keypad" width="400"/>
 
 ### 🎥 Video Demonstrations
-- 🔄 [Servo Mechanism in Action](media/VID_20250507_031537_971.mp4)
+- 🔄 [Facial Recognition](media/VID_20250507_031537_971.mp4)
 - 🔐 [Keypad + Lock Integration Demo](media/VID_20250507_031542_313.mp4)
 
 ---
