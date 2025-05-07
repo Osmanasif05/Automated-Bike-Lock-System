@@ -68,6 +68,11 @@ All components are housed in a **custom 3D-printed enclosure**, designed in **So
     ├── hook1.SLDPRT, hook3.SLDPRT, locker.SLDPRT
     ├── holder.SLDPRT, Arm.SLDPRT
     └── frame1.SLDPRT, frame2.SLDPRT
+📁 media/
+    ├── IMG_20250507_061530_899.jpg
+    ├── IMG_20250507_061533_854.jpg
+    ├── VID_20250507_031537_971.mp4
+    └── VID_20250507_031542_313.mp4
 📄 Final_Report.pdf
 📄 README.md
 📄 .gitignore
@@ -111,6 +116,18 @@ All components are housed in a **custom 3D-printed enclosure**, designed in **So
 3. If authentication fails:
    - An error message is shown
    - An alert sound plays through the Python program
+
+---
+
+## 🖼️ Project Gallery
+
+### 🔧 Device Assembly
+<img src="media/IMG_20250507_061530_899.jpg" alt="3D printed lock and servo" width="400"/>
+<img src="media/IMG_20250507_061533_854.jpg" alt="Assembled lock with keypad" width="400"/>
+
+### 🎥 Video Demonstrations
+- 🔄 [Servo Mechanism in Action](media/VID_20250507_031537_971.mp4)
+- 🔐 [Keypad + Lock Integration Demo](media/VID_20250507_031542_313.mp4)
 
 ---
 
