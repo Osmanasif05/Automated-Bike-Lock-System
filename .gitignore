@@ -1,0 +1,36 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+.env
+.venv/
+venv/
+.env.*
+*.sqlite3
+
+# ===== C/C++ =====
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.out
+*.a
+*.d
+*.lib
+*.dll
+*.manifest
+*.pdb
+*.idb
+*.class
+*.ilk
+*.pyc
+
+# IDE folders (optional)
+.vscode/
+.idea/
