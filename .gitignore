@@ -1,36 +1,33 @@
-# ===== Python =====
-__pycache__/
-*.py[cod]
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
-*.log
-.env
-.venv/
-venv/
-.env.*
-*.sqlite3
-
-# ===== C/C++ =====
-*.o
-*.obj
-*.so
-*.exe
-*.dll
-*.out
-*.a
-*.d
-*.lib
-*.dll
-*.manifest
-*.pdb
-*.idb
-*.class
-*.ilk
+# === Python ===
 *.pyc
+*.pyo
+__pycache__/
+*.pkl
+*.log
 
-# IDE folders (optional)
-.vscode/
+# Ignore face profile and runtime files
+face_profiles.pkl
+
+# Ignore environment and dependency folders
+.env/
+.venv/
+env/
+venv/
 .idea/
+.vscode/
+
+# === Arduino ===
+*.hex
+*.elf
+
+# === SolidWorks ===
+*.slddrw
+*.bak
+*.temp
+
+# === MacOS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+desktop.ini
